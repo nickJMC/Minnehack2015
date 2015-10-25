@@ -4,7 +4,6 @@ INDEX VERSION 1.127+C:\Users\Nick\Desktop\Minnehack\Minnehack2015\.metadata\.plu
 3045053200.index
 3604769962.index
 605290374.index
-3261205447.index
 355369697.index
 115418958.index
 1337478678.index

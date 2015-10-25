@@ -5,3 +5,6 @@
 .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
 *.snap
 .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+.metadata/.plugins/org.eclipse.core.resources/.history/3d/30535d2fb67a00151b83c999757a9293
+*.index
+.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
