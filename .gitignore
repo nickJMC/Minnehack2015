@@ -8,3 +8,5 @@
 .metadata/.plugins/org.eclipse.core.resources/.history/3d/30535d2fb67a00151b83c999757a9293
 *.index
 .metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+.metadata/.plugins/org.eclipse.core.resources/.projects/ComputerUnlock/.markers.snap
+*.snap
